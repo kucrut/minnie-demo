@@ -4,3 +4,6 @@
 [submodule "bin/dev-lib"]
 	path = bin/dev-lib
 	url = https://github.com/xwp/wp-dev-lib.git
+[submodule "content/plugins/extended-cpts"]
+	path = content/plugins/extended-cpts
+	url = https://github.com/johnbillion/extended-cpts.git
