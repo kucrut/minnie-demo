@@ -1,0 +1,3 @@
+#!/bin/bash
+
+PHPUNIT_CONFIG=./phpunit.xml
